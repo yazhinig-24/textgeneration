@@ -23,6 +23,7 @@ Clone the Repository
 
 git clone https://github.com/your-username/text-to-text-cohere.git
 cd text-to-text-cohere
+
 Install Dependencies
 
 pip install -r requirements.txt
@@ -37,10 +38,12 @@ COHERE_API_KEY = "your-api-key-here"
 Run the App
 streamlit run app.py
 🗂 Project Structure
+
+
 text-to-text-cohere/
-├── app.py               # Streamlit application code
-├── requirements.txt     # Python dependencies
-└── README.md            # Project documentation
+├── app.py                    # Streamlit application code
+├── requirements.txt          # Python dependencies
+└── README.md                 # Project documentation
 
 
 📦 Requirements
