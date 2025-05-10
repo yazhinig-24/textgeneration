@@ -1,6 +1,4 @@
-Absolutely! Below is your complete and clean `README.md` file with **section underlines** using Markdown style (`---` or `===`) for better formatting and clarity. This version is fully ready to be uploaded to GitHub and will render correctly.
 
----
 
 ````markdown
 # 🧠 Text-to-Text Generator with Cohere
@@ -93,9 +91,3 @@ This project is licensed under the [MIT License](LICENSE)
 * [Cohere](https://cohere.com/) for their NLP API
 * [Streamlit](https://streamlit.io/) for the front-end framework
 
-```
-
----
-
-Let me know if you'd like help with your `.gitignore` or `LICENSE` file, or deploying this app to **Streamlit Cloud**!
-```
